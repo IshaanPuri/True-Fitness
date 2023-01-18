@@ -39,7 +39,7 @@ p, a, li, span, input, textarea, select, button {
 }
 
 .hero {
-  background-image: url("/images/gym.jpg");
+  background-image: url("/True-Fitness/images/gym.jpg");
   background-size: cover;
   background-position: center;
   height: 800px;
